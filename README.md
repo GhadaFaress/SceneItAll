@@ -10,6 +10,7 @@ Features ✨
 🌑 Dark Mode: A sleek, easy-on-the-eyes dark mode for comfortable browsing.
 
 Screenshots 📸
+
 ![image](https://github.com/user-attachments/assets/2c1667fa-7d3c-4367-8957-94129037d132)
 ![image](https://github.com/user-attachments/assets/c97d98a4-de80-4817-9645-fdaeebc6af70)
 ![image](https://github.com/user-attachments/assets/b5483023-69d7-4449-94fa-f9b4610a4e1b)
