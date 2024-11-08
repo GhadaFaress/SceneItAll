@@ -3,11 +3,17 @@ SceneItAll 🎬
 SceneItAll is a sleek, modern movie browsing application that allows users to search, discover, and browse movies seamlessly. With a user-friendly interface and integration with movie databases, SceneItAll provides movie enthusiasts with all the information they need, including movie overviews, release dates, and castings.
 
 Features ✨
+
 🎥 New and Trending: Check out Trending movies and all the New Releases.
+
 🔍 Search & Discover: Find movies by title.
+
 📖 Detailed Information: View comprehensive details like plot, cast, release date, rating, and runtime.
+
 ❤️ I've SceneIt! : Add movies to your WatchList to watch later, or check movies as "SceneIt" if you've watched the movie.
+
 🌑 Dark Mode: A sleek, easy-on-the-eyes dark mode for comfortable browsing.
+
 
 Screenshots 📸
 
@@ -19,14 +25,21 @@ Screenshots 📸
 ![image](https://github.com/user-attachments/assets/feaf6a0d-97f1-46a6-a256-ec96f2f55f1f)
 
 API Integration 🌐
+
 SceneItAll uses the TMDb API to fetch movie data.
 
+
 Technologies Used 🛠️
+
 Flutter and Dart - Coding the Application
 TMDb API – For movie data
 
+
 License 📄
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
 Contact 📬
+
 Feel free to reach out if you have any questions or suggestions.
